@@ -1,3 +1,5 @@
+# This program is to reverse a string using two functions first_word and second_word and using recursive calls in the third function.
+
 
 
 input_string=raw_input('Enter string:') 
